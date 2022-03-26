@@ -14,25 +14,25 @@
 
 <img
     src="./src/img/screen/Inicio.png"
-    width="700px"
+    height="700px"
 />
 
 <img
     src="./src/img/screen/ganarVilacoints.png"
-    width="700px"
+    height="700px"
 />
 
 <img
     src="./src/img/screen/LoginUser.png"
-    width="700px"
+    height="700px"
 />
 
 <img
     src="./src/img/screen/SignUp.png"
-    width="700px"
+    height="700px"
 />
 
 <img
     src="./src/img/screen/usarVilacoints.png"
-    width="700px"
+    height="700px"
 />
