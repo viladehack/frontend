@@ -34,5 +34,5 @@
 
 <img
     src="./src/img/screen/usarVilacoints.png"
-    height="700px"
+    height="350px"
 />
