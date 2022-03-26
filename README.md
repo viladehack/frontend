@@ -14,22 +14,22 @@
 
 <img
     src="./src/img/screen/Inicio.png"
-    height="700px"
+    height="350px"
 />
 
 <img
     src="./src/img/screen/ganarVilacoints.png"
-    height="700px"
+    height="350px"
 />
 
 <img
     src="./src/img/screen/LoginUser.png"
-    height="700px"
+    height="350px"
 />
 
 <img
     src="./src/img/screen/SignUp.png"
-    height="700px"
+    height="350px"
 />
 
 <img
