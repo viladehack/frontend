@@ -31,7 +31,7 @@ function Footer() {
   return (
     <FooterFlex>
       <P>Tots els drets reservats Copyright &copy; {currantYear} </P>
-      <Signature src={signature} alt="Happy Guiri"></Signature>
+      <Signature src={signature} alt="Happy Green"></Signature>
     </FooterFlex>
   );
 }

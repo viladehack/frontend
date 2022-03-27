@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import useLocalStorage from "use-local-storage";
 
 // more info: https://bluuweb.github.io/react/formularios/#react-hook-form
@@ -34,7 +35,7 @@ const FromSignUp = () => {
 
   // Render / return
   return (
-    <form onSubmit={handleSubmitUserData} className="top">
+    <form className="top">
       <input
         type="text"
         name="nick"
@@ -59,7 +60,9 @@ const FromSignUp = () => {
         autoComplete="on"
         onChange={(element) => handleInputChange(element)}
       />
-      <button type="submit">Sign me up</button>
+      <Link to="/HappyGreen">
+        <button type="submit">Sign me up</button>
+      </Link>
     </form>
   );
 };

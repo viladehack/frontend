@@ -1,4 +1,4 @@
-# HAPPY STYLE - VILADEHACK TOURISM.
+# HAPPY GREEN - VILADEHACK TOURISM.
 
     En este startup, pretende dar diferentes soluciones a los retos que nos han presentado.
 

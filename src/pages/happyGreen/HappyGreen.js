@@ -4,7 +4,7 @@ import Footer from "../../components/Footer";
 // import axios from "axios";
 // import { useState, useEffect } from "react";
 
-const HappyViller = () => {
+const HappyGreen = () => {
   // // 1- initialize variables
   // const [data, setData] = useState("");
 
@@ -46,4 +46,4 @@ const HappyViller = () => {
   );
 };
 
-export default HappyViller;
+export default HappyGreen;

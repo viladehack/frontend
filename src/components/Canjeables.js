@@ -40,7 +40,7 @@ const Canjeables = () => {
         {verUsar && (
           <div className="usar">
             <a>
-              <div className="HappyViller">
+              <div className="HappyGreen">
                 <div className="textUsar">
                   <p>10% Descuento</p>
                   <p>Restaurante Karlota</p>
@@ -50,7 +50,7 @@ const Canjeables = () => {
               </div>
             </a>
             <a>
-              <div className="HappyViller">
+              <div className="HappyGreen">
                 <div className="textUsar">
                   <p>Reserva VIP</p>
                   <p>Teatre al Carrer</p>
@@ -60,7 +60,7 @@ const Canjeables = () => {
               </div>
             </a>
             <a>
-              <div className="HappyViller">
+              <div className="HappyGreen">
                 <div className="textUsar">
                   <p>3x2 Entradas</p>
                   <p>Museu de Viladecans</p>

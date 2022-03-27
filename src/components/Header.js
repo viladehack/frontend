@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import signature from "../img/Firma.png";
 import conectar from "../img/user.png";
 
 const Header = ({ user }) => {
@@ -6,10 +7,9 @@ const Header = ({ user }) => {
     <header>
       <div className="logo">
         <Link to="/">
-          <img
-            src="https://viladecans.thestyleoutlets.es/sites/all/modules/cmspl/cmspl_tso/svg-logo/svg-centers-logo/viladecans.svg"
-            alt="Spain - Viladecans"
-          />
+          <img src={signature} alt="Spain - Viladecans" />
+          <p> HAPPY GREEN</p>
+          <img src={signature} alt="Spain - Viladecans" />
         </Link>
         <div className="entrada">
           {user ? <h1>¡Hola {user}</h1> : <h1>¡Bienvenid@ Happy!</h1>}

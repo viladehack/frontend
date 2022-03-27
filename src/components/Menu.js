@@ -3,7 +3,7 @@ import productos from "../img/productos.png";
 import miVisita from "../img/miVisita.png";
 import marcas from "../img/marcas.png";
 import whats from "../img/whats.png";
-import HappyViller from "../img/Firma.png";
+import HappyGreen from "../img/Firma.png";
 import { Link } from "react-router-dom";
 
 const Menu = () => {
@@ -43,10 +43,10 @@ const Menu = () => {
             <p>what's on</p>
           </div>
         </Link>
-        <Link to="/HappyViller">
-          <div className="HappyViller">
-            <img src={HappyViller} alt="Bolsa Sostenible" />
-            <p>Happy Stylers</p>
+        <Link to="/HappyGreen">
+          <div className="HappyGreen">
+            <img src={HappyGreen} alt="Bolsa Sostenible" />
+            <p>Happy Green</p>
           </div>
         </Link>
       </div>
